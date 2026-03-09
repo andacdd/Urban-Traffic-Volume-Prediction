@@ -1,7 +1,9 @@
-Proje, Metro_Interstate_Traffic_Volume.csv veri kümesini kullanarak trafik hacmi (traffic_volume) üzerinde etkili olan parametreleri analiz eder. Çalışma kapsamında veri ön işleme, keşifsel veri analizi (EDA) ve tahminleme modelleri üzerinde durulmuştur.
--Kullanılan Teknolojiler
-Python: Ana programlama dili.
+Urban Traffic Volume Prediction analyzes parameters affecting traffic volume using the Metro_Interstate_Traffic_Volume.csv dataset. The study focuses on data preprocessing, exploratory data analysis (EDA), and predictive modeling.
 
-Pandas & NumPy: Veri manipülasyonu.
+Technologies Used
 
-Scikit-learn: Makine öğrenmesi modelleme.
+Python: Primary programming language.
+
+Pandas & NumPy: Data manipulation.
+
+Scikit-learn: Machine learning modeling.
